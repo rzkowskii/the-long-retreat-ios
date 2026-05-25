@@ -26,8 +26,4 @@ You command the UNS Defiance from the Bridge. Pick routes, assign ship support, 
 - iPhone narrative survival command game
 - Launch candidate
 - Official site: <https://rzkowski.com/projects/the-long-retreat/>
-- Source code is private; this repo is a public promo page only
-
-## Source Code Boundary
-
-This public repository is only the promo page. The app source code, project files, private config, internal docs, local artifacts, and release workflows are not published here.
+- Source code is not published here
